@@ -1,7 +1,7 @@
 # http5110
 Repo for Introduction Design for Interaction - 5110
 
-In this repo I am documenting everytthing I am learning in subject of Workshops in Web Dev 1 - 5114 at Humber College. This subject mainly focus on practicals. Thera are total 14 modules.
+In this repo I am documenting everytthing I am learning in subject of Workshops in Intro to Web Development - 5110 at Humber College. This subject mainly focus on Introduction of different modules of web development.
 
 ## Learning Outcomes 
 - Monitor the time spent on work using a timesheet.
@@ -28,4 +28,4 @@ Email is the best way to contact Bearnee.
 
 `<h1> Hello World</h1>`
 
-![meme-pic](https://tasks.brickmmo.com/images/meme-hate-love.jpeg
+![meme-pic](_readme/web-design-pic.jpg)
